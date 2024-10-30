@@ -5,5 +5,7 @@ The Iris dataset is a classic dataset in data science and machine learning, cons
 Through EDA:
 
 1.Summarize the Data: Check for missing values, outliers, and basic statistics of each feature.
+
 2.Visualize Distributions: Use histograms, box plots, and violin plots to analyze the spread of each feature within and across species.
+
 3.Examine Relationships: Scatter plots, pair plots, and correlation matrices reveal relationships and patterns, especially between petal and sepal dimensions, which are useful in distinguishing species.
